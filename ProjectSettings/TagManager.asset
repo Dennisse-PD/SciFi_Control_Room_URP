@@ -8,7 +8,7 @@ TagManager:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - post-processing
   - Water
   - UI
   - Ceiling
@@ -40,4 +40,10 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Post-Processing
+    uniqueID: 835563953
+    locked: 0
+  - name: New Layer 2
+    uniqueID: 789406307
     locked: 0
